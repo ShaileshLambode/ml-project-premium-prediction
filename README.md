@@ -139,4 +139,4 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](LIC
 
 - **Author:** Shailesh Lambode  
 - **GitHub:** [ShaileshLambode](https://github.com/ShaileshLambode)  
-- **Email:** *[your email]*
+- **Email:** shaileshlambode2908@gmail.com
